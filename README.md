@@ -7,8 +7,7 @@
 
 <p align="left">
   
-  🖥️ Linguagens:
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🖥️ Linguagens:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -19,18 +18,16 @@
 </p> 
 
 <p align="left">
-💼 Ferramentas que eu uso: - 
+  <h3 align="left"> 💼 Ferramentas que eu uso: :</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,wordpress,notion,gamemakerstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,wordpress" />
   </a>
 </p>
 
 <p align="left">
   📬 Aqui vai uma mensagem para entrar em contato com você: 
 </p>
-
-
 
 <p align="left">
   <a href="#" title="Gmail">
