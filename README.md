@@ -7,11 +7,19 @@
 
 <p align="left">
   🖥️ Linguagens:
-  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,arduino " />
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.python.org" target="_blank" title ="Python"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a>
+
+   
+
+
+</p> 
 
 <p align="left">
 💼 Ferramentas que eu uso: - 
