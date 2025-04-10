@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá! Meu nome é Tadeu Augusto e eu sou estudante de <strong>Engenharia da Computação</strong>.<br>
-  Sou apaixonado por Inteligência Artifícial e atualmente estou desenvolvendo um projeto de Iniciação Científica voltado para essa área, e com isso estou aprendendo muitas coisas novas ao longo do caminho que vou compartilhar aqui. 😄
+  Apaixonado por Inteligência Artificial e Ciência de Dados, estou em constante aprendizado sobre como algoritmos e análise de dados podem resolver problemas reais.😄
 </p>
 
 <p align="left">
