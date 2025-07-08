@@ -3,7 +3,7 @@
 # 👋 Olá! Sou Tadeu Augusto
 
 🎓 Estudante de **Engenharia da Computação**  
-🤖 Apaixonado por **Inteligência Artificial**, **Ciência de Dados** e **Soluções para a Web**  
+🤖 Apaixonado por **Inteligência Artificial**, **Ciência de Dados** e **Soluções Inovadoras**  
 📊 Em constante aprendizado para transformar dados e algoritmos em soluções para problemas reais.  
 
 ## 🖥️ Linguagens
