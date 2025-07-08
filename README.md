@@ -11,21 +11,11 @@
 ## 🖥️ Linguagens
 
 <p>
-  <a href="https://www.cprogramming.com/" target="_blank" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
@@ -33,30 +23,14 @@
 ## ⚒️ Ferramentas e Tecnologias
 
 <p>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://electronjs.org/" target="_blank" title="Electron">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://backstage.io/" target="_blank" title="Backstage">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/backstage.svg" alt="Backstage" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://github.com/" target="_blank" title="GitHub">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
-  <a href="https://wordpress.com/" target="_blank" title="WordPress">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" style="background:white; border-radius:6px; padding:2px;" />
-  </a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Backstage-3F20BA?style=for-the-badge&logo=backstage&logoColor=white" alt="Backstage" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
 ---
@@ -65,9 +39,9 @@
 
 <p>
   <a href="https://www.linkedin.com/in/tadeu-augusto/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/tadeuaugustovs/" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
