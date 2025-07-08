@@ -8,7 +8,7 @@
 
 ---
 
-**🖥️ Linguagens**
+**Linguagens**
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-**⚒️ Ferramentas e Tecnologias**
+**Ferramentas e Tecnologias**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
-**🌐 Redes sociais**
+**Redes sociais**
 
 <p>
   <a href="https://www.linkedin.com/in/tadeu-augusto/" title="LinkedIn">
