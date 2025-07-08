@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right" />
-
 # 👋 Olá! Sou Tadeu Augusto
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right" />
 
 🎓 Estudante de **Engenharia da Computação**  
 🤖 Apaixonado por **Inteligência Artificial**, **Ciência de Dados** e **Soluções Inovadoras**  
