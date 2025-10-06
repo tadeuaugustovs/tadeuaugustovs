@@ -1,14 +1,17 @@
-# 👋 Olá! Sou Tadeu Augusto
+# 👋 Hi! I'm Tadeu Augusto
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right" />
 
-🎓 Estudante de **Engenharia da Computação**  
-🤖 Apaixonado por **Inteligência Artificial**, **Ciência de Dados** e **Soluções Inovadoras**  
-📊 Em constante aprendizado para transformar dados e algoritmos em soluções para problemas reais.  
+
+🎓 Computer Engineering student  
+🤖 Passionate about **Artificial Intelligence**, **Data Science**, and **Innovative Solutions**  
+🌐 Currently venturing into the **Web3 ecosystem** — exploring blockchain, smart contracts, and decentralized applications.  
+
+
 
 ---
 
-**Linguagens**
+**Languages**
 
 <p>
   <a href="https://en.cppreference.com/w/c" target="_blank">
@@ -28,7 +31,7 @@
   </a>
 </p>
 
-**Ferramentas e Tecnologias**
+**Tools & Technologies***
 
 <p>
   <a href="https://www.postgresql.org/" target="_blank">
@@ -57,7 +60,7 @@
   </a>
 </p>
 
-**Redes sociais**
+**Social Media**
 
 <p>
   <a href="https://www.linkedin.com/in/tadeu-augusto/" title="LinkedIn">
